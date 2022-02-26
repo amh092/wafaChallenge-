@@ -10,5 +10,9 @@
 *chat svg <FontAwesomeIcon icon="fa-brands fa-rocketchat" />
 *eskimo images done 
 *reports images 3 images remaining done 
-*html structuring
-*css components structuring
+*creating components 
+    *header
+    *Title
+    *nav bar with search 
+    *popular news 
+    *hot news 
