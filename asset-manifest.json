@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/wafaChallenge-/static/css/main.65bbc0ad.css",
+    "main.js": "/wafaChallenge-/static/js/main.5c1b02f9.js",
+    "static/media/AdobeStock_331627357.jpeg": "/wafaChallenge-/static/media/AdobeStock_331627357.96ea9e99ad74edb1bbad.jpeg",
+    "static/media/AdobeStock_289079499.jpeg": "/wafaChallenge-/static/media/AdobeStock_289079499.fc7a02b648a367086332.jpeg",
+    "static/media/AdobeStock_7727248.jpeg": "/wafaChallenge-/static/media/AdobeStock_7727248.e1c50d3d10d2e5d87c9a.jpeg",
+    "static/media/author.jpg": "/wafaChallenge-/static/media/author.6f1c9b64fd8da8a31ee7.jpg",
+    "static/media/Background.jpg": "/wafaChallenge-/static/media/Background.187fefd51f5851f44f23.jpg",
+    "static/media/whatsapp-svgrepo-com.svg": "/wafaChallenge-/static/media/whatsapp-svgrepo-com.164290c658dddf2e11222440b65767ae.svg",
+    "index.html": "/wafaChallenge-/index.html",
+    "main.65bbc0ad.css.map": "/wafaChallenge-/static/css/main.65bbc0ad.css.map",
+    "main.5c1b02f9.js.map": "/wafaChallenge-/static/js/main.5c1b02f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65bbc0ad.css",
+    "static/js/main.5c1b02f9.js"
+  ]
+}
